@@ -1,0 +1,3 @@
+1,istanbul,Düsseldorf,Yetişkin,Ekonomi Sınıfı (Economy Class),A1,31 May 2024,00:00,false
+1,Bremen,Viyana,Yetişkin,Ekonomi Sınıfı (Economy Class),A1,26 May 2024,00:00,false,
+1,Bursa Yenişehir Havalimanı,Diyarbakır Havalimanı,Yetişkin,Ekonomi Sınıfı (Economy Class),A1,26 May 2024,00:00,true,
